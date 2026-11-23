@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod-dracula",
+  "owner": { "name": "NelsonBrandao" },
+  "plugins": [{ "name": "dracula", "source": "./" }]
+}
